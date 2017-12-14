@@ -1,0 +1,7 @@
+using gcc, run the following command to compile:
+
+$ gcc -Wall hello.c -o hello
+
+to execute the newly-compiled "hello" program, run the following command:
+
+$ ./hello
